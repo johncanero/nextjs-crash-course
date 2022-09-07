@@ -1,0 +1,9 @@
+Algorithm Code for Creating Next Js: Web Dev News
+1. Create a Next Js App: https://nextjs.org/docs
+2. Modify Pages: Index.js (Home Link)
+3. Create a Component called Layout Js
+4. Create a Component called Nav.js and Header.js
+5. Create Nav.module.css and Header.module.css Styles (This could be replaced by Tailwind CSS on the upcoing projects)
+6. Create a Layout.module.css Styles (This would layout the Layout.js)
+7. Import the Layout.js in app.js
+8. Import Custom Document from: https://nextjs.org/docs and create a file: _document.js 
