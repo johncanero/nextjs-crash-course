@@ -12,7 +12,7 @@ const ArticleItem = ({article}) => {
                     <p>{article.body}</p>
                     {/* <p>{article.excerpt}</p> */}
                 </a>
-        </Link>
+        </Link> 
     </div>
   )
 }
